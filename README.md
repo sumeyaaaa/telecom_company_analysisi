@@ -1,1 +1,1 @@
-# telecom_company_analysisi
+# telecom_company_analysis
